@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abinash-shrestha
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript, ReactJS
-- 💞️ I’m looking to collaborate on JS, ReactJS
+- 💞️ I’m looking to collaborate on ReactJS
 - 📫 How to reach me ...
 
 <!---
