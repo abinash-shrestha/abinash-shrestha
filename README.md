@@ -7,14 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/heavy_grinder13" target="blank"><img src="https://img.shields.io/twitter/follow/heavy_grinder13?logo=twitter&style=for-the-badge" alt="heavy_grinder13" /></a> </p>
 
-- 🔭 I’m currently working on **swiggy clone**
+- 🔭 I’m currently working on **Swiggy Clone**
 
 - 🌱 I’m currently learning **ReactJS, Redux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/heavy_grinder13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heavy_grinder13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abinash shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abinash shrestha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abinash-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abinash shrestha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/heavygrinder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="heavygrinder" height="30" width="40" /></a>
 </p>
 
