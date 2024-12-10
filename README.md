@@ -1,13 +1,10 @@
-# Abinash Shrestha
+<h2 align="center">Abinash Shrestha</h2>
 
-> Student 🧑‍🎓| Bachelors in Information Management | Software Developer | 
+<h3 align="center">Student 🧑‍🎓| Bachelors in Information Management | Software Developer |  </h3> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/jeromehardaway)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:jerome@vetswhocode.io)
-[![Organization](https://img.shields.io/badge/VetsWhoCode-Website-green)](https://vets-who-code.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abinash-shrestha-7b78a9298/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:dev.abinashshrestha@gmail.com)
 
-<h1 align="center">Hi 👋, I'm Abinash Shrestha</h1>
-<h3 align="center">Lazy Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinash-shrestha&label=Profile%20views&color=0e75b6&style=flat" alt="abinash-shrestha" /> </p>
 
