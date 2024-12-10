@@ -1,3 +1,11 @@
+# Abinash Shrestha
+
+> Student 🧑‍🎓| Bachelors in Information Management | Software Developer | 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/jeromehardaway)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:jerome@vetswhocode.io)
+[![Organization](https://img.shields.io/badge/VetsWhoCode-Website-green)](https://vets-who-code.github.io/)
+
 <h1 align="center">Hi 👋, I'm Abinash Shrestha</h1>
 <h3 align="center">Lazy Frontend Developer</h3>
 
