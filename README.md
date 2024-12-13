@@ -8,9 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:dev.abinashshrestha@gmail.com)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abinash-shrestha&label=Profile%20views&color=0e75b6&style=flat" alt="abinash-shrestha" /> </p>
-
-
 - 🔭 I’m currently working on **Swiggy Clone**
 
 - 🌱 I’m currently learning **ReactJS, Redux**
