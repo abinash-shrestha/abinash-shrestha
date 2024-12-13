@@ -2,15 +2,14 @@
 
 <h3 align="center">Student 🧑‍🎓| Bachelors in Information Management | Software Developer |  </h3> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abinash-shrestha&label=Profile%20views&color=0e75b6&style=flat" alt="abinash-shrestha" /> </p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abinash-shrestha-7b78a9298/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:dev.abinashshrestha@gmail.com)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinash-shrestha&label=Profile%20views&color=0e75b6&style=flat" alt="abinash-shrestha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinash-shrestha" alt="abinash-shrestha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/heavy_grinder13" target="blank"><img src="https://img.shields.io/twitter/follow/heavy_grinder13?logo=twitter&style=for-the-badge" alt="heavy_grinder13" /></a> </p>
 
 - 🔭 I’m currently working on **Swiggy Clone**
 
