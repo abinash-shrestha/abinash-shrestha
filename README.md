@@ -2,8 +2,6 @@
 
 <h3 align="center">Student 🧑‍🎓| Bachelors in Information Management | Software Developer |  </h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abinash-shrestha&label=Profile%20views&color=0e75b6&style=flat" alt="abinash-shrestha" /> </p>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abinash-shrestha-7b78a9298/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:dev.abinashshrestha@gmail.com)
 
