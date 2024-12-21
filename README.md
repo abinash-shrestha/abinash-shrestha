@@ -1,6 +1,6 @@
 <h2 align="center">Abinash Shrestha</h2>
 
-<h3 align="center">Student 🧑‍🎓| Bachelors in Information Management | Software Developer |  </h3> 
+<h3 align="center">Student 🧑‍🎓| Bachelors in Information Management | </h3> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abinash-shrestha-7b78a9298/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:dev.abinashshrestha@gmail.com)
@@ -24,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinash-shrestha&show_icons=true&locale=en" alt="abinash-shrestha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinash-shrestha&" alt="abinash-shrestha" /></p>
