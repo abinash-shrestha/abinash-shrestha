@@ -2,7 +2,7 @@
 
 <h3 align="center">Student 🧑‍🎓| Bachelors in Information Management | </h3> 
 
-- 🔭 I’m currently working on **Swiggy Clone**
+- 🔭 Currently building a Netflix-inspired frontend project featuring movie recommendations powered by ChatGPT API integration.
 
 - 🌱 I’m currently learning **ReactJS, Redux**
 
