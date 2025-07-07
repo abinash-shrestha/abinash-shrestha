@@ -2,9 +2,7 @@
 
 <h3 align="center">Student 🧑‍🎓| Bachelors in Information Management | </h3> 
 
-- 🔭 Currently building a Netflix-inspired frontend project featuring movie recommendations powered by ChatGPT.
-
-- 🌱 I’m currently learning **ReactJS, Redux**
+- 🌱 I’m currently learning **ReactNative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
