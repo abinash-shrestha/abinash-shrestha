@@ -1,8 +1,8 @@
 <h2 align="center">Abinash Shrestha</h2>
 
-<h3 align="center">Student 🧑‍🎓| Bachelors in Information Management | </h3> 
+<!-- <h3 align="center">Student 🧑‍🎓| Bachelors in Information Management | </h3>  -->
 
-- 🌱 I’m currently learning **ReactNative, NodeJs**
+<!-- 🌱 I’m currently learning **ReactNative, NodeJs** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
